@@ -33,9 +33,9 @@ SISTEMA OPERACIONAL UBUNTU 24.04
 
 COMANDO DE INSTALAÇÃO DO WHATICKET
 
-sudo apt install -y git && git clone https://github.com/weliton2k/instalador-whaticket-main-v.10.0.1.git && sudo chmod -R 777 instalador-whaticket-main-v.10.0.1 && cd instalador-whaticket-main-v.10.0.1 && sudo ./install_primaria
+sudo apt install -y git && git clone https://github.com/Aldeman/instalador-whaticket-main-v.10.0.1.git && sudo chmod -R 777 instalador-whaticket-main-v.10.0.1 && cd instalador-whaticket-main-v.10.0.1 && sudo ./install_primaria
 
 
-https://github.com/usuario/whaticket.git
+https://github.com/Aldeman/whatsnsc.git
 
 
